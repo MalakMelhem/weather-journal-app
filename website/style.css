@@ -32,30 +32,11 @@ body{
     padding: 0.5em;
 }
 
-/* #entryHolder{
-    width: 70%;
-    height: 50%;
-} */
-
-#date{
-
-}
-
-#temp{
-
-}
-
-#content{
-
-}
-
 .headline{
     font-size: 4rem;
 
 }
-.title{
 
-}
 .myInput{
    width: 90%;
    /* height: 20%; */
@@ -106,12 +87,6 @@ h1{
     font-size: 36px;
 }
 
-/* textarea{
-    background:#22b2da;
-    color: #f0d43a;
-    font-size: 20px;
-    font-family: 'Oswald', sans-serif;
-} */
 /* Reset style for HTML element on active to have no border*/
 input:focus,
 select:focus,
